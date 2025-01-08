@@ -15,15 +15,18 @@
 | [0118-pascals-triangle](https://github.com/Asmita2712/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asmita2712/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Asmita2712/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/Asmita2712/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Asmita2712/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/Asmita2712/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Asmita2712/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Asmita2712/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/Asmita2712/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +54,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Asmita2712/Leetcode/tree/master/0048-rotate-image) |
+| [3227-find-missing-and-repeated-values](https://github.com/Asmita2712/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
