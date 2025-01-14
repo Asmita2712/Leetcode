@@ -62,6 +62,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Asmita2712/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Asmita2712/Leetcode/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/Asmita2712/Leetcode/tree/master/2050-count-good-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Asmita2712/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -83,6 +84,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Asmita2712/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Asmita2712/Leetcode/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/Asmita2712/Leetcode/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
