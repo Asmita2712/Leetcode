@@ -43,6 +43,7 @@
 | [0053-maximum-subarray](https://github.com/Asmita2712/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Asmita2712/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asmita2712/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Asmita2712/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,9 +101,11 @@
 | [0051-n-queens](https://github.com/Asmita2712/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Asmita2712/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Asmita2712/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Asmita2712/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Asmita2712/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Asmita2712/Leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Asmita2712/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
