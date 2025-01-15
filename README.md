@@ -17,6 +17,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Asmita2712/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Asmita2712/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Asmita2712/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Asmita2712/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Asmita2712/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Asmita2712/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Asmita2712/Leetcode/tree/master/0118-pascals-triangle) |
@@ -35,6 +36,7 @@
 | [0048-rotate-image](https://github.com/Asmita2712/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Asmita2712/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Asmita2712/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Asmita2712/Leetcode/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/Asmita2712/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -100,6 +102,7 @@
 | [0046-permutations](https://github.com/Asmita2712/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Asmita2712/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Asmita2712/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Asmita2712/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Asmita2712/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Asmita2712/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## String
@@ -107,5 +110,10 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Asmita2712/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Asmita2712/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Asmita2712/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Asmita2712/Leetcode/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Asmita2712/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
