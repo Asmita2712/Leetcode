@@ -22,6 +22,7 @@
 | [0090-subsets-ii](https://github.com/Asmita2712/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Asmita2712/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asmita2712/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Asmita2712/Leetcode/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Asmita2712/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Asmita2712/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -47,6 +48,7 @@
 | [0118-pascals-triangle](https://github.com/Asmita2712/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asmita2712/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Asmita2712/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Asmita2712/Leetcode/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
